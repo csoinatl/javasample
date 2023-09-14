@@ -1,4 +1,4 @@
-package com.igt.sample;
+package org.so.sample;
 
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

@@ -1,4 +1,4 @@
-package com.igt.sample;
+package org.so.sample;
 
 import java.util.Objects;
 
